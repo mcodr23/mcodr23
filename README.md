@@ -17,6 +17,10 @@
 
 </div>
 
+<p>
+  📧 <a href="mailto:YOUR_EMAIL">shanwasnik05@gmail.com</a>
+</p>
+
 ---
 
 ## About
