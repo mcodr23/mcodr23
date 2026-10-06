@@ -19,7 +19,7 @@
 
 <div align="center">
 
-`📧 your-shanwasnik05@gmail.com`
+`📧 shanwasnik05@gmail.com`
 
 </div>
 
